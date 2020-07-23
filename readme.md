@@ -1,4 +1,4 @@
-# Todo List
+# Todo List 📝
 
 🇧🇷 PT-BR: Simples Todo list feita com o intuito de estudar mais sobre o ambiente Node.js e alguns de seus pacotes mais populares: Express, EJS e Mongoose. É possível criar diversas listas diferentes com persistência de dados (tarefas) digitando um nome qualquer na própria url i.e *endereço.com/nome_da_lista*. A lista na rota root tem o título de acordo com o dia da semana em inglês, a função que trata da data vem de um módulo local *date.js*. Toda a lógica reside no servidor (Express+Mongoose), e o frontend usa templates EJS e uma interface genérica retirada da internet.
 
